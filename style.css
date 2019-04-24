@@ -5,11 +5,11 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #efeee7;
+    background:#127b9b;
   }
   
   header {
-    background: #333;
+    background: rgb(10, 99, 22);
   }
   
   h1 {
@@ -26,7 +26,7 @@ body {
   }
   
   a {
-    color: #d21034;
+    color: #19ec11;
   }
   
   .container {
